@@ -1,0 +1,5 @@
+número1 = int(input('Digite um número: '))
+número2 = int(input('Digite novamente um número: '))
+print('-='*20)
+print(f'{número1} + {número2} = {número1+número2}')
+print('-='*20)
